@@ -11,7 +11,7 @@ Here are projects that are available to use.
 1. [Pomodoro Timer](https://trist4nl3.github.io/rust_pomodoro_webapp/): Brief description.
 
 📫 **How to reach me:** 
-- Email: [Your Email Address](tris.enterprise8@gmail.com)
+- Email: [email](tris.enterprise8@gmail.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trist4nl3)](https://github.com/trist4nl3/github-profile-trophy)
 
