@@ -15,7 +15,7 @@ Here are projects that are available to use.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trist4nl3)](https://github.com/trist4nl3/github-profile-trophy)
 
-📊 **GitHub Stats:** 
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=trist4nl3&show_icons=true&theme=radical)
 
 
