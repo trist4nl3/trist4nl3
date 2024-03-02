@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**trist4nl3/trist4nl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tristan, a student dedicated to computer science. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** 
+- Building a full-stack password manager
+- Developing an online arcade web app with various games made in C++ (Finished Tetris)
+- Creating a Pomodoro timer web app using Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:** 
+- Neural Networks
+
+💼 **Proficient in:** 
+- Languages: C++, Rust, Python
+- Frameworks: Yew, CppCMS
+- Tools: Git, GitHub
+
+🚀 **Skills:** 
+- Full-stack web development
+- Frontend and backend development
+- Database management (PostgreSQL)
+- Artifical Intelligence
+
+📂 **Projects:** 
+Here are projects that are available to use.
+1. [Pomodoro Timer](https://trist4nl3.github.io/rust_pomodoro_webapp/): Brief description.
+
+📫 **How to reach me:** 
+- Email: [Your Email Address](tris.enterprise8@gmail.com)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+📊 **GitHub Stats:** 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
