@@ -13,7 +13,7 @@ Here are projects that are available to use.
 📫 **How to reach me:** 
 - Email: [email](tris.enterprise8@gmail.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=trist4nl3)](https://github.com/trist4nl3/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=trist4nl3)](https://github-profile-trophy.vercel.app/?username=trist4nl3&rank=-C,-B)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=trist4nl3&show_icons=true&theme=radical)
