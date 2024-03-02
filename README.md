@@ -8,7 +8,7 @@ I'm trist4nl3, I've made a few projects such as a pomodoro timer and more to com
 
 📂 **Projects:** 
 Here are projects that are available to use.
-1. [Pomodoro Timer](https://trist4nl3.github.io/rust_pomodoro_webapp/): Brief description.
+1. [Pomodoro Timer](https://trist4nl3.github.io/rust_pomodoro_webapp/): A pomodoro app made with the rust framework Yew
 
 📫 **How to reach me:** 
 - Email: [email](tris.enterprise8@gmail.com)
