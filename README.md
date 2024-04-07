@@ -3,7 +3,6 @@ I'm trist4nl3, I've made a few projects such as a pomodoro timer and more to com
 🚀 **Skills:** 
 - Full-stack web development
 - Frontend and backend development
-- Database management (PostgreSQL)
 - Artifical Intelligence
 
 📂 **Projects:** 
